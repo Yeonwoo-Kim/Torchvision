@@ -1,11 +1,10 @@
-* ### Torchvision
-[Fashion-MNIST](     )
+### Torchvision
+* [Fashion-MNIST](     )
 <table>
-  <tr>resnet5</tr>
+  <th>resnet5</th>
+  <th>CNN</th>
+  <tr>
     <td>333%</td>
-  </tr>
-  
-  <tr>CNN</tr>
     <td>555%</td>
   </tr>
 </table>
