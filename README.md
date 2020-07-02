@@ -1,4 +1,4 @@
-### Torchvision
+## Torchvision
 
 
 * [Fashion-MNIST](https://github.com/Yeonwoo-Kim/Pytorch/tree/master/Fashion-MNIST)
@@ -18,7 +18,7 @@
 
 * [KMNIST](https://github.com/Yeonwoo-Kim/Pytorch/tree/master/Fashion-MNIST)
 
-![image](https://user-images.githubusercontent.com/50096655/86315844-4b0c3a00-bc66-11ea-8769-f83c94c7a459.png)
+![image](https://user-images.githubusercontent.com/50096655/86315844-4b0c3a00-bc66-11ea-8769-f83c94c7a459.png){: width="100%" height="100%"}
 
 <table>
   <th>resnet5</th>
