@@ -7,9 +7,11 @@
 
 
 <table>
+  <th> </th>
   <th>resnet5</th>
   <th>CNN</th>
   <tr>
+    <td style=>accuracy</td>
     <td>0.89</td>
     <td>0.91</td>
   </tr>
@@ -23,9 +25,11 @@
 <img src="https://user-images.githubusercontent.com/50096655/86315844-4b0c3a00-bc66-11ea-8769-f83c94c7a459.png" width="100%"></img>
 
 <table>
+  <th> </th>
   <th>resnet5</th>
   <th>CNN</th>
   <tr>
+    <td>accuracy</td>
     <td>0.89</td>
     <td>0.91</td>
   </tr>
