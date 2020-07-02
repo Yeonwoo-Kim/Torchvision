@@ -34,4 +34,19 @@
     <td>0.91</td>
   </tr>
 </table>
+
+* [Cityscapes](https://github.com/Yeonwoo-Kim/Pytorch/tree/master/Fashion-MNIST)(Get semantic segmentation target)
+
+<img src="https://user-images.githubusercontent.com/50096655/86322294-ac87d500-bc75-11ea-8e91-aeaa982a7ec3.png" width="100%" height="250"></img>
+
+<table>
+  <th> </th>
+  <th>resnet5</th>
+  <th>CNN</th>
+  <tr>
+    <td>accuracy</td>
+    <td>0.89</td>
+    <td>0.91</td>
+  </tr>
+</table>
   
