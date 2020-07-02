@@ -1,6 +1,6 @@
 ### Torchvision
 
-* [Fashion-MNIST](Fashion-MNIST/FMNIST_resnet5.ipynb)
+* [Fashion-MNIST](https://github.com/Yeonwoo-Kim/Pytorch/tree/master/Fashion-MNIST)
 <table>
   <th>resnet5</th>
   <th>CNN</th>
